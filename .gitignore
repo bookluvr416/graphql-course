@@ -1,0 +1,13 @@
+chat\client\node_modules
+chat\server\node_modules
+hello-world\client\node_modules
+hello-world\server\node_modules
+job-board\client\node_modules
+job-board\server\node_modules
+
+chat/client/node_modules
+chat/server/node_modules
+hello-world/client/node_modules
+hello-world/server/node_modules
+job-board/client/node_modules
+job-board/server/node_modules
